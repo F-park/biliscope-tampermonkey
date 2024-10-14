@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         biliscope-tampermonkey
+// @name         biliscope - B站AI总结+热评外显
 // @namespace    https://github.com/F-park/biliscope-tampermonkey/blob/master/video
 // @version      0.1.0
 // @author       F-park
