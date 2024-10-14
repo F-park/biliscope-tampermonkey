@@ -39,6 +39,7 @@ export default defineConfig({
     monkey({
       entry: 'video.js',
       userscript: {
+        name: "biliscope - B站AI总结+热评外显",
         author: "F-park",
         description: "悬停视频封面看B站AI总结+热评",
         version: "0.1.0",
